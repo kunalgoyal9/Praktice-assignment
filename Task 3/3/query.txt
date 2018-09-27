@@ -1,0 +1,1 @@
+SELECT SUBSTR(Country, 1, 1) as s, avg(Size) FROM `mytable` GROUP by s

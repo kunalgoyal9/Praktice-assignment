@@ -1,0 +1,1 @@
+SELECT count(Country) FROM `mytable` WHERE Penetration>30 and Population < 34169169
